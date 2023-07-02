@@ -1,0 +1,105 @@
+<html>
+  <head>
+    <title>Yogurts</title>
+    <style>
+      body {
+        background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+        color: #fff;
+        width: 50%;
+        margin: 60px auto;
+        font-family: "Cerebri Sans", Helvetica, Arial, sans-serif;
+      }
+
+      h1 {
+        text-align: center;
+        font-weight: bold;
+        border: 1px solid #fff;
+        padding: 20px;
+        border-radius: 4px;
+      }
+
+      h2 {
+        text-align: center;
+      }
+
+      p {
+        line-height: 1.5;
+        font-size: 24px;
+      }
+
+      img {
+        margin: 0 auto;
+        display: block;
+        border-radius: 4px;
+      }
+
+      button {
+        background: rgba(0, 0, 0, 0.87);
+        border: none;
+        font-size: 42px;
+        border-radius: 4px;
+        text-transform: uppercase;
+        color: #fff;
+        display: block;
+        padding: 10px 20px;
+        transition: opacity 150ms ease;
+        cursor: pointer;
+        opacity: 1;
+        box-shadow: 0 1px 20px rgba(0, 0, 0, 0.5);
+        margin: 30px auto;
+      }
+
+      button:hover {
+        opacity: 0.9;
+      }
+
+      a {
+        color: #fff;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>I love Yogurt</h1>
+    <h2>Expecially Greek Yogurts</h2>
+    <hr />
+
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhomHm0BIlEn4TfBbRJYgzjy-HN8tHtiVJY_n9onpNKAdj3mtog"
+      alt=""
+    />
+    <hr />
+    <p>
+      <strong>Greek yogurt</strong> is a yogurt that has been strained to remove
+      most of its whey, resulting in a thicker consistency than unstrained
+      yogurt, while preserving yogurt's distinctive sour taste. Like many types
+      of yogurt, strained yogurt is often made from milk that has been enriched
+      by boiling off some of its water content, or by adding extra butterfat and
+      powdered milk. In Europe and North America, it is often made with low-fat
+      or fat-free yogurt. In Iceland a similar product named <em>skyr</em> is
+      produced.
+    </p>
+    <small
+      ><a href="https://en.wikipedia.org/wiki/Strained_yogurt" target="_blank"
+        >Read on Wikipedia</a
+      ></small
+    >
+    <br />
+    <button class="btn">Try Greek Yogurt</button>
+
+    <script>
+      document.querySelector(".btn").addEventListener("click", function () {
+        let name = prompt("What is your name?");
+        if (name.length) {
+          alert(
+            "Thanks, " +
+              name +
+              " , we will be in touch. Meanwhile, have a lot of Yogurt!"
+          );
+        } else {
+          alert("No name, no Greek Yogurt for you!");
+        }
+      });
+    </script>
+  </body>
+</html>
