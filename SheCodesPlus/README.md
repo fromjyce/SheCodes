@@ -22,8 +22,8 @@ The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Wee
   1. CodeSandbox
   2. [Missing Files debugging](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Two/Challenge%201)
   3. [Visuals](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Two/Challenge%202)
-  4. [Fonts]
-  5. Advanced CSS Positioning
+  4. [Fonts](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Two/Challenge%203)
+  5. [Advanced CSS Positioning](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Two/Challenge%204)
   6. Bootstrap
   7. HTML Forms
   8. Plus Week Two Summary
