@@ -17,13 +17,20 @@ I attended the following workshops at SheCodes:
 ### [SheCodes Basics Workshop](https://github.com/fromjyce/SheCodes/tree/main/SheCodesBasics)
 The SheCodes Basics Workshop is an introductory workshop that covers front-end development and development tools. It is designed for complete beginners. Here are some key details about the workshop:
 
-* Duration: The workshop spans over several weeks, with approximately 5 hours of coding work per week.
+* Duration: The workshop spans over three weeks, with approximately 5 hours of coding work per week.
 * Live Technical Support: During the workshop, live technical support is available to assist participants.
 * Topics Covered:
   * HTML: Learn the basics of HTML and how to create an HTML page.
   * CSS: Learn how to style an HTML page with CSS and target specific design elements.
   * JavaScript: Understand the fundamentals of JavaScript and learn how to animate elements in your code.
   * Popular Coding Technologies: Become familiar with popular coding technologies such as Visual Studio Code.
+
+### [SheCodes Plus Workshop](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus)
+The SheCodes Plus Workshop is a beginner-friendly program that provides hands-on training in tech fundamentals, making it the perfect stepping stone for those looking to transition into the world of technology. Here are some key details about the workshop:
+
+* Duration: The workshop spans over eight weeks, with approximately 5 hours of coding work per week.
+* Live Technical Support: During the workshop, live technical support is available to assist participants.
+* Topics Covered:
 
 ## Running the Programs
 To run the HTML programs, you don't need any specific software or IDE. HTML programs can be executed in any web browser.  The programs have been tested on the Visual Studio Code IDE in Windows 11.
