@@ -42,7 +42,7 @@ The [`Week Three`]() file consists of the lessons and challenges completed durin
   6. [JS Arrays vs Objects]()
   7. Plus Week Three Summary
 
-  ## Week Four Overview
+## Week Four Overview
 The [`Week Four`]() file consists of the lessons and challenges completed during Week Four.
 
   ### *Week Four Curriculum*
@@ -54,6 +54,16 @@ The [`Week Four`]() file consists of the lessons and challenges completed during
   6. [JS Events]()
   7. [JS Forms]()
   8. Plus Week Four Summary
+
+## Week Five Overview
+The [`Week Five`]() file consists of the lessons and challenges completed during Week Four.
+
+  ### *Week Five Curriculum*
+  1. [API]()
+  2. [AJAX]()
+  3. [Weather API]()
+  4. [Geolocation API]()
+  5. Plus Week Five Summary
 
 
 
