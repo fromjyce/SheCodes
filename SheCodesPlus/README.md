@@ -56,7 +56,7 @@ The [`Week Four`]() file consists of the lessons and challenges completed during
   8. Plus Week Four Summary
 
 ## Week Five Overview
-The [`Week Five`]() file consists of the lessons and challenges completed during Week Four.
+The [`Week Five`]() file consists of the lessons and challenges completed during Week Five.
 
   ### *Week Five Curriculum*
   1. [API]()
@@ -65,8 +65,16 @@ The [`Week Five`]() file consists of the lessons and challenges completed during
   4. [Geolocation API]()
   5. Plus Week Five Summary
 
+## Week Six Overview
+The [`Week Six`]() file consists of the lessons and challenges completed during Week Six.
 
-
+  ### *Week Six Curriculum*
+  1. Install Git
+  2. Git
+  3. [GitHub]()
+  4. [Hosting]()
+  5. Netlify
+  6. Plus Week Six Summary
 
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
