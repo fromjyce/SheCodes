@@ -33,7 +33,7 @@ The SheCodes Plus Workshop is a beginner-friendly program that provides hands-on
 * Topics Covered:
 
 ## Running the Programs
-To run the HTML programs, you don't need any specific software or IDE. HTML programs can be executed in any web browser.  The programs have been tested on the Visual Studio Code IDE in Windows 11.
+To run the HTML programs, you don't need any specific software or IDE. HTML programs can be executed in any web browser.  The programs have been tested on the Visual Studio Code IDE in Windows 11. However, for a more convenient and collaborative development experience, CodeSandbox was used to implement and test HTML, CSS, and JavaScript programs.
 ***You are free to choose any IDE that suits your needs.***
 
 ## Contact
