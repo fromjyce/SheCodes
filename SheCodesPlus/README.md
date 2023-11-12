@@ -90,6 +90,18 @@ The [`Week Seven`]() file consists of the lessons and challenges completed durin
   8. [Vanilla Weather Search / Weather Data](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven/7.%20weather%20data)
   9. Vanilla Weather Search / Summary
 
+## Week Eight Overview
+The [`Week Eight`]() file consists of the lessons and challenges completed during Week Eight.
+
+  ### *Week Eight Curriculum*
+  1. Vanilla Weather Forecast Overview
+  2. Vanilla Weather Forecast / Plan
+  3. Vanilla Weather Forecast / HTML/CSS
+  4. Vanilla Weather Forecast / JS Template
+  5. Vanilla Weather Forecast / API
+  6. Vanilla Weather Forecast / API Integration
+  7. Vanilla Weather Forecast Summary
+
 
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
