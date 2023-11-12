@@ -102,6 +102,8 @@ The [`Week Eight`]() file consists of the lessons and challenges completed durin
   6. Vanilla Weather Forecast / API Integration
   7. Vanilla Weather Forecast Summary
 
+## Final Project
+
 
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
