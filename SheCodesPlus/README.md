@@ -112,6 +112,8 @@ The [`Week Eight`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/W
   6. [Vanilla Weather Forecast / API Integration](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Eight/5.%20API%20integration)
   7. Vanilla Weather Forecast Summary
 
+In Week 8, we embarked on the final leg of our SheCodes Plus Workshop journey, diving into the creation of a fully functioning weather app. The curriculum began with an overview of the Vanilla Weather Forecast project, followed by detailed plans and the implementation of HTML/CSS templates. We then delved into JavaScript templates and explored API integration, enabling us to fetch real-time weather data for our application. The week concluded with a comprehensive summary, solidifying our understanding of the entire project's architecture and functionality. As a culmination of our learning, our homework assignment involved the development of a fully operational weather app, marking a significant milestone in our coding proficiency. This final project not only showcased our newfound skills but also prepared us for the upcoming discussion in the next section, where we would delve deeper into the details of our accomplished weather app.
+
 ## [Final Project](https://suspicious-beaver-111c4d.netlify.app/)
 
 
