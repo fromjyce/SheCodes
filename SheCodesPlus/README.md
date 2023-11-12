@@ -81,13 +81,13 @@ The [`Week Seven`]() file consists of the lessons and challenges completed durin
 
   ### *Week Seven Curriculum*
   1. Vanilla Weather Search Overview
-  2. Vanilla Weather Search / Project Setup
-  3. Vanilla Weather Search / Project Design
-  4. Vanilla Weather Search / HTML
-  5. Vanilla Weather Search / CSS
-  6. Vanilla Weather Search / Search Engine
-  7. Vanilla Weather Search / API Integration
-  8. Vanilla Weather Search / Weather Data
+  2.[Vanilla Weather Search / Project Setup](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven/1.%20project%20setup)
+  3. [Vanilla Weather Search / Project Design](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven/2.%20project%20design)
+  4. [Vanilla Weather Search / HTML](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven/3.%20html)
+  5. [Vanilla Weather Search / CSS](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven/4.%20css)
+  6. [Vanilla Weather Search / Search Engine](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven/5.%20search%20engine)
+  7. [Vanilla Weather Search / API Integration](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven/6.%20api%20integration)
+  8. [Vanilla Weather Search / Weather Data](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven/7.%20weather%20data)
   9. Vanilla Weather Search / Summary
 
 
