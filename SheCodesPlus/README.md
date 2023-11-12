@@ -69,6 +69,8 @@ The [`Week Five`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/We
   4. [Geolocation API]()
   5. Plus Week Five Summary
 
+In Week 5 of the SheCodes Plus Workshop, we delved into the realm of data connectivity and dynamic web content. The curriculum spotlighted crucial topics, beginning with an in-depth exploration of APIs and AJAX, empowering us to seamlessly integrate external data into our projects. The focus then shifted to Weather and Geolocation APIs, equipping us with the skills to fetch real-time weather information and incorporate location-based services into our applications. [The practical application](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Five/Homework) of our knowledge culminated in a hands-on project where we implemented a user-friendly feature. Our task was to create a search functionality that, upon inputting a city name, would display both the city's name and its current temperature on the result page. This immersive experience not only enhanced our proficiency in API integration but also provided a tangible demonstration of creating dynamic and responsive web content. The Week 5 Summary encapsulates our journey through these advanced topics, reinforcing our ability to craft interactive and data-driven web experiences.
+
 ## Week Six Overview
 The [`Week Six`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Six/ChallengeOne) file consists of the lessons and challenges completed during Week Six.
 
