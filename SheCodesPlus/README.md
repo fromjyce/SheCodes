@@ -57,6 +57,8 @@ The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/We
   7. [JS Forms]()
   8. Plus Week Four Summary
 
+In Week 4 of the workshop, our focus sharpened on advancing our proficiency in JavaScript, covering essential topics to elevate our web development skills. We delved into the intricacies of JavaScript functions, exploring parameters and return values to enhance the functionality of our code. Debugging techniques were honed to troubleshoot effectively, ensuring our projects ran smoothly. We navigated through the realm of JavaScript Dates and Events, broadening our understanding of dynamic and interactive web elements. The curriculum also equipped us with the expertise to create user-friendly forms, enhancing the interactivity of our web applications. [The week's ](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Four/Homework) culminated in the implementation of two key features: displaying the current date and time using JavaScript and integrating a search engine functionality into our projects. This practical application of knowledge not only solidified our understanding of JavaScript but also empowered us to create dynamic and user-centric web experiences. Successfully completing these assignments showcased our ability to translate concepts into functional web solutions during the hands-on experience.
+
 ## Week Five Overview
 The [`Week Five`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Five) file consists of the lessons and challenges completed during Week Five.
 
