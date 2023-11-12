@@ -76,8 +76,8 @@ The [`Week Six`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Wee
   ### *Week Six Curriculum*
   1. Install Git
   2. Git
-  3. [GitHub]()
-  4. [Hosting]()
+  3. GitHub
+  4. [Hosting](https://sharp-franklin-c95dd2.netlify.app/)
   5. Netlify
   6. Plus Week Six Summary
 
