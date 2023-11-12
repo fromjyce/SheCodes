@@ -76,6 +76,21 @@ The [`Week Six`]() file consists of the lessons and challenges completed during 
   5. Netlify
   6. Plus Week Six Summary
 
+## Week Seven Overview
+The [`Week Seven`]() file consists of the lessons and challenges completed during Week Seven.
+
+  ### *Week Seven Curriculum*
+  1. Vanilla Weather Search Overview
+  2. Vanilla Weather Search / Project Setup
+  3. Vanilla Weather Search / Project Design
+  4. Vanilla Weather Search / HTML
+  5. Vanilla Weather Search / CSS
+  6. Vanilla Weather Search / Search Engine
+  7. Vanilla Weather Search / API Integration
+  8. Vanilla Weather Search / Weather Data
+  9. Vanilla Weather Search / Summary
+
+
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
 
