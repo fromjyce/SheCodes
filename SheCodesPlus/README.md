@@ -95,11 +95,11 @@ The [`Week Eight`]() file consists of the lessons and challenges completed durin
 
   ### *Week Eight Curriculum*
   1. Vanilla Weather Forecast Overview
-  2. Vanilla Weather Forecast / Plan
-  3. Vanilla Weather Forecast / HTML/CSS
-  4. Vanilla Weather Forecast / JS Template
-  5. Vanilla Weather Forecast / API
-  6. Vanilla Weather Forecast / API Integration
+  2. [Vanilla Weather Forecast / Plan](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Eight/1.%20Plan)
+  3. [Vanilla Weather Forecast / HTML/CSS](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Eight/2.%20HTML%20_%20CSS)
+  4. [Vanilla Weather Forecast / JS Template](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Eight/3.%20JS%20templates)
+  5. [Vanilla Weather Forecast / API](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Eight/4.%20Forecast%20API)
+  6. [Vanilla Weather Forecast / API Integration](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Eight/5.%20API%20integration)
   7. Vanilla Weather Forecast Summary
 
 ## Final Project
