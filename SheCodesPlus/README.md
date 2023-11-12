@@ -31,7 +31,7 @@ The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Wee
 In Week 2 of the workshop, we continued to deepen our understanding of web development. The curriculum encompassed a range of critical topics, starting with debugging techniques to address missing files, ensuring our ability to troubleshoot effectively. We then dived into the world of visual design, exploring elements such as fonts and advanced CSS positioning to enhance the aesthetics of our web projects. Bootstrap was introduced as a powerful tool for responsive web design, and we also gained proficiency in creating user-friendly HTML forms for data input. The week culminated in the practical application of our skills, as we transformed our paper wireframes into functional HTML and CSS prototypes using VS Code or CodeSandbox. This hands-on experience solidified our grasp of web development fundamentals and marked a significant step in translating design concepts into interactive web realities. As part of [our homework](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Two/Homework), we were tasked with converting our paper wireframes into HTML and CSS code and hosting them in a Vanilla Sandbox. This assignment not only reinforced our learning but also allowed us to apply our newfound skills to create a tangible web project. The Workshop Week 2 Summary encapsulates our journey through these valuable topics, equipping us with the knowledge and skills to craft compelling web experiences.
 
 ## Week Three Overview
-The [`Week Three`]() file consists of the lessons and challenges completed during Week Three.
+The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Three) file consists of the lessons and challenges completed during Week Three.
 
   ### *Week Three Curriculum*
   1. [JS Revision]()
@@ -43,7 +43,7 @@ The [`Week Three`]() file consists of the lessons and challenges completed durin
   7. Plus Week Three Summary
 
 ## Week Four Overview
-The [`Week Four`]() file consists of the lessons and challenges completed during Week Four.
+The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Four) file consists of the lessons and challenges completed during Week Four.
 
   ### *Week Four Curriculum*
   1. [JS Functions]()
@@ -56,7 +56,7 @@ The [`Week Four`]() file consists of the lessons and challenges completed during
   8. Plus Week Four Summary
 
 ## Week Five Overview
-The [`Week Five`]() file consists of the lessons and challenges completed during Week Five.
+The [`Week Five`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Five) file consists of the lessons and challenges completed during Week Five.
 
   ### *Week Five Curriculum*
   1. [API]()
@@ -66,7 +66,7 @@ The [`Week Five`]() file consists of the lessons and challenges completed during
   5. Plus Week Five Summary
 
 ## Week Six Overview
-The [`Week Six`]() file consists of the lessons and challenges completed during Week Six.
+The [`Week Six`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Six/ChallengeOne) file consists of the lessons and challenges completed during Week Six.
 
   ### *Week Six Curriculum*
   1. Install Git
@@ -77,7 +77,7 @@ The [`Week Six`]() file consists of the lessons and challenges completed during 
   6. Plus Week Six Summary
 
 ## Week Seven Overview
-The [`Week Seven`]() file consists of the lessons and challenges completed during Week Seven.
+The [`Week Seven`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven) file consists of the lessons and challenges completed during Week Seven.
 
   ### *Week Seven Curriculum*
   1. Vanilla Weather Search Overview
@@ -91,7 +91,7 @@ The [`Week Seven`]() file consists of the lessons and challenges completed durin
   9. Vanilla Weather Search / Summary
 
 ## Week Eight Overview
-The [`Week Eight`]() file consists of the lessons and challenges completed during Week Eight.
+The [`Week Eight`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Eight) file consists of the lessons and challenges completed during Week Eight.
 
   ### *Week Eight Curriculum*
   1. Vanilla Weather Forecast Overview
@@ -102,7 +102,7 @@ The [`Week Eight`]() file consists of the lessons and challenges completed durin
   6. [Vanilla Weather Forecast / API Integration](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Eight/5.%20API%20integration)
   7. Vanilla Weather Forecast Summary
 
-## Final Project
+## [Final Project](https://suspicious-beaver-111c4d.netlify.app/)
 
 
 ## Contact
