@@ -31,6 +31,12 @@ The SheCodes Plus Workshop is a beginner-friendly program that provides hands-on
 * Duration: The workshop spans over eight weeks, with approximately 5 hours of coding work per week.
 * Live Technical Support: During the workshop, live technical support is available to assist participants.
 * Topics Covered:
+  * Advanced JavaScript: Master advanced page animation techniques using functions.
+  * API Integration: Learn to integrate APIs into your code to fetch real data.
+  * Code Management with GitHub: Explore GitHub for version control and collaborative coding.
+  * Technological Tools for Professionals: Gain proficiency with Visual Studio Code and industry-standard tools.
+  * Responsive Design with CSS: Master responsive design techniques for diverse device compatibility.
+  * Web Hosting: Understand the fundamentals of web hosting and deployment.
 
 ## Running the Programs
 To run the HTML programs, you don't need any specific software or IDE. HTML programs can be executed in any web browser.  The programs have been tested on the Visual Studio Code IDE in Windows 11. However, for a more convenient and collaborative development experience, CodeSandbox was used to implement and test HTML, CSS, and JavaScript programs.
