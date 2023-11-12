@@ -82,6 +82,8 @@ The [`Week Six`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Wee
   5. Netlify
   6. Plus Week Six Summary
 
+In Week 6 of the SheCodes Plus Workshop, we delved into crucial aspects of version control and deployment. The curriculum kicked off with the installation of Git, laying the foundation for effective code management. We then seamlessly transitioned into utilizing GitHub, a powerful platform for collaborative coding and version tracking. The focus shifted to web hosting, with a particular emphasis on Netlify, a leading hosting service. The week's hands-on assignment involved migrating our CodeSandbox project to our local machines, creating a new GitHub repository, and deploying the code to Netlify. This practical exercise not only reinforced our understanding of version control and hosting but also empowered us to showcase our projects to a global audience. The culmination of the week was marked by submitting our Netlify URL, GitHub profile link, and repository information, showcasing our proficiency in managing code and deploying web projects.
+
 ## Week Seven Overview
 The [`Week Seven`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven) file consists of the lessons and challenges completed during Week Seven.
 
