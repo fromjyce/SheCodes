@@ -98,6 +98,8 @@ The [`Week Seven`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/W
   8. [Vanilla Weather Search / Weather Data](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Seven/7.%20weather%20data)
   9. Vanilla Weather Search / Summary
 
+In Week Seven, our focus sharpened on the Vanilla Weather Search project, a culmination of our learning journey. We began by setting up the project, diving into the intricacies of project design, HTML, and CSS. The week unfolded with an exploration of the search engine, paving the way for advanced API integration to fetch real-time weather data. We delved into weather data specifics, honing in on elements like wind speed, weather description, and weather icons. The curriculum provided a comprehensive overview, enabling us to synthesize these components into a cohesive whole. [For homework](https://suspicious-beaver-111c4d.netlify.app/), we were challenged to enhance various facets of our project, ensuring mastery in search engine functionality, API integration, and the presentation of weather details. The mandate included excluding the forecast for a future challenge. The week's tasks culminated in hosting our refined projects on Netlify, further integrating our skills into real-world applications and showcasing our progress on GitHub.
+
 ## Week Eight Overview
 The [`Week Eight`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Eight) file consists of the lessons and challenges completed during Week Eight.
 
