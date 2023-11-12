@@ -48,13 +48,13 @@ In Week 3, our SheCodes Plus Workshop delved into crucial JavaScript concepts, i
 The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Four) file consists of the lessons and challenges completed during Week Four.
 
   ### *Week Four Curriculum*
-  1. [JS Functions]()
-  2. [JS Functions Parameters]()
+  1. [JS Functions](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Four/Challenge%20One)
+  2. [JS Functions Parameters](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Four/Challenge%20Two)
   3. JS Debugging
-  4. [JS Functions Return]()
-  5. [JS Dates]()
-  6. [JS Events]()
-  7. [JS Forms]()
+  4. [JS Functions Return](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Four/Challenge%20Three)
+  5. [JS Dates](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Four/Challenge%20Four)
+  6. [JS Events](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Four/Challenge%20Five)
+  7. [JS Forms](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Four/Challenge%20Six)
   8. Plus Week Four Summary
 
 In Week 4 of the workshop, our focus sharpened on advancing our proficiency in JavaScript, covering essential topics to elevate our web development skills. We delved into the intricacies of JavaScript functions, exploring parameters and return values to enhance the functionality of our code. Debugging techniques were honed to troubleshoot effectively, ensuring our projects ran smoothly. We navigated through the realm of JavaScript Dates and Events, broadening our understanding of dynamic and interactive web elements. The curriculum also equipped us with the expertise to create user-friendly forms, enhancing the interactivity of our web applications. [The week's ](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Four/Homework) culminated in the implementation of two key features: displaying the current date and time using JavaScript and integrating a search engine functionality into our projects. This practical application of knowledge not only solidified our understanding of JavaScript but also empowered us to create dynamic and user-centric web experiences. Successfully completing these assignments showcased our ability to translate concepts into functional web solutions during the hands-on experience.
