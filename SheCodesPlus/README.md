@@ -116,6 +116,8 @@ In Week 8, we embarked on the final leg of our SheCodes Plus Workshop journey, d
 
 ## [Final Project](https://suspicious-beaver-111c4d.netlify.app/)
 
+For our culminating Final Project, we harnessed the entirety of our eight-week SheCodes Plus Workshop resources to craft a fully functional weather app. Leveraging the knowledge acquired in HTML, CSS, and JavaScript, we meticulously designed and implemented a user-friendly interface that seamlessly integrates real-time weather data through API integration. The comprehensive skills gained throughout the workshop empowered us to bring our creative vision to life. Notably, we went a step further by hosting our accomplished weather app on Netlify, showcasing our ability to deploy and share our web creations with a global audience. This hands-on experience served as a testament to our growth and proficiency in web development, marking a fulfilling conclusion to the SheCodes Plus Workshop.
+
 
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
