@@ -34,12 +34,12 @@ In Week 2 of the workshop, we continued to deepen our understanding of web devel
 The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Three) file consists of the lessons and challenges completed during Week Three.
 
   ### *Week Three Curriculum*
-  1. [JS Revision]()
-  2. [JS Strings]()
-  3. [JS Math]()
-  4. [JS Arrays and Loops]()
-  5. [JS Objects]()
-  6. [JS Arrays vs Objects]()
+  1. [JS Revision](https://github.com/fromjyce/SheCodes/blob/main/SheCodesPlus/Week%20Three/Challenge%20One.html)
+  2. [JS Strings](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Three/Challenge%20Two)
+  3. [JS Math](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Three/Challenge%20Three)
+  4. [JS Arrays and Loops](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Three/Challenge%20Four)
+  5. [JS Objects](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Three/Challenge%20Five)
+  6. [JS Arrays vs Objects](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Three/Challenge%20Six)
   7. Plus Week Three Summary
 
 In Week 3, our SheCodes Plus Workshop delved into crucial JavaScript concepts, including string manipulation, mathematical operations, arrays, loops, and objects. Through comprehensive revision and hands-on exercises, we fortified our understanding of these programming elements. [Our practical assignment](https://github.com/fromjyce/SheCodes/tree/main/SheCodesPlus/Week%20Three/Week%20Three%20Homework) involved incorporating a JavaScript file into our projects to create an interactive weather feature. Users were prompted to input a city, triggering an alert with current weather details. We also learned to handle cases where the city wasn't in the predefined list, providing a link to Google for further information. This week's focus not only deepened our JavaScript proficiency but empowered us to implement dynamic, real-world functionality in our web projects.
