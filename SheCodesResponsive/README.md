@@ -2,7 +2,7 @@
 This folder contains the projects and materials I created and learned during the SheCodes Responsive Workshop, which provided an introduction to front-end development with multi-page websites and responsive code that adapts to any device.
 
 ## Week One Overview
-The [`Week One`]() file consists of the lessons and challenges completed during Week One.
+The [`Week One`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20One) file consists of the lessons and challenges completed during Week One.
 
 ### *Week One Curriculum*
   1. Multiple HTML Pages
