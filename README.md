@@ -38,6 +38,14 @@ The SheCodes Plus Workshop is a beginner-friendly program that provides hands-on
   * Responsive Design with CSS: Master responsive design techniques for diverse device compatibility.
   * Web Hosting: Understand the fundamentals of web hosting and deployment.
 
+### [SheCodes Responsive Workshop](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive)
+The SheCodes Responsive Workshop takes your coding projects to the next level with multi-page websites and responsive code that adapts to any device.
+
+* Duration: The workshop spans over five weeks, with approximately 3 hours of coding work per week.
+* Live Technical Support: During the workshop, live technical support is available to assist participants.
+* Topics Covered:
+  * Responsive
+
 ## Running the Programs
 To run the HTML programs, you don't need any specific software or IDE. HTML programs can be executed in any web browser.  The programs have been tested on the Visual Studio Code IDE in Windows 11. However, for a more convenient and collaborative development experience, CodeSandbox was used to implement and test HTML, CSS, and JavaScript programs.
 ***You are free to choose any IDE that suits your needs.***
