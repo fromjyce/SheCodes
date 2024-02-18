@@ -19,7 +19,8 @@ The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsi
   2. Utility CSS Classes
   3. Responsive Grids
   4. Responsive Images
-  5. Responsive Week 1 Summary
+  5. Responsive Navigation
+  6. Responsive Week 2 Summary
 
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
