@@ -18,7 +18,7 @@ The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsi
   1. Bootstrap
   2. Utility CSS Classes
   3. Responsive Grids
-  4. Advanced Flexbox
+  4. Responsive Images
   5. Responsive Week 1 Summary
 
 ## Contact
