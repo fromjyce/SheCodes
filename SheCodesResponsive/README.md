@@ -11,6 +11,16 @@ The [`Week One`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsi
   4. Advanced Flexbox
   5. Responsive Week 1 Summary
 
+## Week Two Overview
+The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two) file consists of the lessons and challenges completed during Week Two.
+
+### *Week Two Curriculum*
+  1. Bootstrap
+  2. Advanced HTML Pages
+  3. CSS Variables
+  4. Advanced Flexbox
+  5. Responsive Week 1 Summary
+
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
 
