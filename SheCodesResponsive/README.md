@@ -30,8 +30,8 @@ The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespon
   2. CSS Media Queries
   3. Live Server
   4. Multiple Page Hosting
-  5. Responsive Navigation
-  6. Responsive Week 2 Summary
+  5. SEO
+  6. Responsive Week 3 Summary
 
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
