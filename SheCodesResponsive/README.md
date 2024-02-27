@@ -28,7 +28,7 @@ The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespon
 ### *Week Three Curriculum*
   1. Responsive Testing
   2. CSS Media Queries
-  3. Responsive Grids
+  3. Live Server
   4. Responsive Images
   5. Responsive Navigation
   6. Responsive Week 2 Summary
