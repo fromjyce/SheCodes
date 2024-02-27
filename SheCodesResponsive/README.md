@@ -29,7 +29,7 @@ The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespon
   1. Responsive Testing
   2. CSS Media Queries
   3. Live Server
-  4. Responsive Images
+  4. Multiple Page Hosting
   5. Responsive Navigation
   6. Responsive Week 2 Summary
 
