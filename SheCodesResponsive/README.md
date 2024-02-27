@@ -22,6 +22,17 @@ The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsi
   5. Responsive Navigation
   6. Responsive Week 2 Summary
 
+## Week Three Overview
+The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Three) file consists of the lessons and challenges completed during Week Three.
+
+### *Week Three Curriculum*
+  1. Responsive Testing
+  2. CSS Media Queries
+  3. Responsive Grids
+  4. Responsive Images
+  5. Responsive Navigation
+  6. Responsive Week 2 Summary
+
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
 
