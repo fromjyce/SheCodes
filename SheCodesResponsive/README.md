@@ -33,6 +33,17 @@ The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespon
   5. SEO
   6. Responsive Week 3 Summary
 
+## Week Four Overview
+The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Four) file consists of the lessons and challenges completed during Week Four.
+
+### *Week Four Curriculum*
+  1. Responsive Testing
+  2. CSS Media Queries
+  3. Live Server
+  4. Multiple Page Hosting
+  5. SEO
+  6. Responsive Week 3 Summary
+
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
 
