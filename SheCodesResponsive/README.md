@@ -37,7 +37,7 @@ The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespon
 The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Four) file consists of the lessons and challenges completed during Week Four.
 
 ### *Week Four Curriculum*
-  1. Responsive Testing
+  1. Portfolio Project/Wireframe
   2. CSS Media Queries
   3. Live Server
   4. Multiple Page Hosting
