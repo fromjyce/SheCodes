@@ -5,7 +5,7 @@ This folder contains the projects and materials I created and learned during the
 The [`Week One`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20One) file consists of the lessons and challenges completed during Week One.
 
 ### *Week One Curriculum*
-  1. Multiple HTML Pages
+  1. [Multiple HTML Pages](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20One/Challenge%20One)
   2. Advanced HTML Pages
   3. CSS Variables
   4. Advanced Flexbox
