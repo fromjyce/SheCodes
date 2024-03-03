@@ -18,7 +18,7 @@ The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsi
 
 ### *Week Two Curriculum*
   1. [Bootstrap](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two/Challenge%20One)
-  2. Utility CSS Classes
+  2. [Utility CSS Classes](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two/Challenge%20Two)
   3. Responsive Grids
   4. Responsive Images
   5. Responsive Navigation
