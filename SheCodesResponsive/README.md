@@ -24,6 +24,8 @@ The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsi
   5. [Responsive Navigation](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two/Challenge%20Five)
   6. Responsive Week 2 Summary
 
+**Homework :** [Advanced Bootstrap Homework](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two/Homework)
+
 ## Week Three Overview
 The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Three) file consists of the lessons and challenges completed during Week Three.
 
