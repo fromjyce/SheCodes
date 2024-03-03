@@ -34,7 +34,7 @@ The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespon
   2. [CSS Media Queries](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Three/Challenge%20One)
   3. Live Server
   4. [Multiple Page Hosting](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Three/Challenge%20Two)
-  5. SEO
+  5. [SEO](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Three/Challenge%20Three)
   6. Responsive Week 3 Summary
 
 ## Week Four Overview
