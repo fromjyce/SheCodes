@@ -44,6 +44,7 @@ The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
   5. Portfolio Project/Git + Github
   6. Portfolio Project/Homepage Hero
   7. Portfolio Project/Homepage Content
+  8. Responsive Week 4 Summary
 
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
