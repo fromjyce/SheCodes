@@ -53,7 +53,7 @@ The [`Week Five`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
   1. Portfolio Project/About Page
   2. Portfolio Project/Work Page
   3. Portfolio Project/Contact Page
-  4. Portfolio Project/Setup
+  4. Portfolio Project/Header
   5. Portfolio Project/Git + Github
   6. Portfolio Project/Homepage Hero
   7. Portfolio Project/Homepage Content
