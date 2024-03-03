@@ -50,7 +50,7 @@ The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
 The [`Week Five`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five) file consists of the lessons and challenges completed during Week Five.
 
 ### *Week Five Curriculum*
-  1. Portfolio Project/Wireframe
+  1. Portfolio Project/About Page
   2. Portfolio Project/User Interface
   3. Figma
   4. Portfolio Project/Setup
