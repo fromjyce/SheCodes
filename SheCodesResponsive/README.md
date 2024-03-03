@@ -59,7 +59,7 @@ The [`Week Five`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
 
 ### *Week Five Curriculum*
   1. [Portfolio Project/About Page](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five/Challenge%20One)
-  2. Portfolio Project/Work Page
+  2. [Portfolio Project/Work Page](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five/Challenge%20Two)
   3. Portfolio Project/Contact Page
   4. Portfolio Project/Header
   5. Portfolio Project/Footer
