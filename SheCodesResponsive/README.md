@@ -42,7 +42,7 @@ The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
   3. Figma
   4. Portfolio Project/Setup
   5. Portfolio Project/Git + Github
-  6. Responsive Week 3 Summary
+  6. Portfolio Project/Homepage Hero
 
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
