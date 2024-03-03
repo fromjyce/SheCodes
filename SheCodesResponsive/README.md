@@ -38,7 +38,7 @@ The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
 
 ### *Week Four Curriculum*
   1. Portfolio Project/Wireframe
-  2. CSS Media Queries
+  2. Portfolio Project/User Interface
   3. Live Server
   4. Multiple Page Hosting
   5. SEO
