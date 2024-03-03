@@ -63,7 +63,7 @@ The [`Week Five`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
   3. [Portfolio Project/Contact Page](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five/Challenge%20Three)
   4. [Portfolio Project/Header](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five/Challenge%20Four)
   5. [Portfolio Project/Footer](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five/Challenge%20Five)
-  6. Portfolio Project/SEO
+  6. [Portfolio Project/SEO](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five/Challenge%20Six)
   7. Responsive Week 5 Summary
 
 ## Contact
