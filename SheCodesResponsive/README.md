@@ -37,6 +37,8 @@ The [`Week Three`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespon
   5. [SEO](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Three/Challenge%20Three)
   6. Responsive Week 3 Summary
 
+**Homework :** [Advanced Tools Homework](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Three/Homework)
+
 ## Week Four Overview
 The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Four) file consists of the lessons and challenges completed during Week Four.
 
