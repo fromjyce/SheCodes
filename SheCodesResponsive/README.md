@@ -52,6 +52,8 @@ The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
   7. [Portfolio Project/Homepage Content](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Four/Challenge%20Four)
   8. Responsive Week 4 Summary
 
+**Homework :** [Responsive Homepage Homework](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Four/Homework)
+
 ## Week Five Overview
 The [`Week Five`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five) file consists of the lessons and challenges completed during Week Five.
 
