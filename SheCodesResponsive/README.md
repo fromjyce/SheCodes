@@ -7,7 +7,7 @@ The [`Week One`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsi
 ### *Week One Curriculum*
   1. [Multiple HTML Pages](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20One/Challenge%20One)
   2. [Advanced HTML Pages](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20One/Challenge%20Two)
-  3. CSS Variables
+  3. [CSS Variables](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20One/Challenge%20Three)
   4. Advanced Flexbox
   5. Responsive Week 1 Summary
 
