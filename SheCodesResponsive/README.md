@@ -17,7 +17,7 @@ The [`Week One`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsi
 The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two) file consists of the lessons and challenges completed during Week Two.
 
 ### *Week Two Curriculum*
-  1. Bootstrap
+  1. [Bootstrap](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two/Challenge%20One)
   2. Utility CSS Classes
   3. Responsive Grids
   4. Responsive Images
