@@ -21,7 +21,7 @@ The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsi
   2. [Utility CSS Classes](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two/Challenge%20Two)
   3. [Responsive Grids](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two/Challenge%20Three)
   4. [Responsive Images](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two/Challenge%20Four)
-  5. Responsive Navigation
+  5. [Responsive Navigation](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two/Challenge%20Five)
   6. Responsive Week 2 Summary
 
 ## Week Three Overview
