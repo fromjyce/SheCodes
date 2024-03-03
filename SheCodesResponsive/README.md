@@ -51,7 +51,7 @@ The [`Week Five`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
 
 ### *Week Five Curriculum*
   1. Portfolio Project/About Page
-  2. Portfolio Project/User Interface
+  2. Portfolio Project/Work Page
   3. Figma
   4. Portfolio Project/Setup
   5. Portfolio Project/Git + Github
