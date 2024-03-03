@@ -44,7 +44,11 @@ The SheCodes Responsive Workshop takes your coding projects to the next level wi
 * Duration: The workshop spans over five weeks, with approximately 3 hours of coding work per week.
 * Live Technical Support: During the workshop, live technical support is available to assist participants.
 * Topics Covered:
-  * Responsive
+  * Responsive HTML & CSS: Master the art of creating responsive layouts and designs to ensure optimal viewing experiences across various devices
+  * Bootstrap Framework: Learn to leverage the Bootstrap framework for rapid prototyping and development of responsive websites.
+  * CSS Flexbox & Grid: Dive deep into CSS Flexbox and Grid to create flexible and adaptive layouts effortlessly.
+  * Media Queries: Explore advanced techniques like media queries to customize styles based on screen sizes, enhancing the responsiveness of your websites.
+  * Portfolio Project: Apply the acquired skills to develop a personal portfolio project, integrating best practices for responsive design and user experience.
 
 ## Running the Programs
 To run the HTML programs, you don't need any specific software or IDE. HTML programs can be executed in any web browser.  The programs have been tested on the Visual Studio Code IDE in Windows 11. However, for a more convenient and collaborative development experience, CodeSandbox was used to implement and test HTML, CSS, and JavaScript programs.
