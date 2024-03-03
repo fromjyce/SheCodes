@@ -41,7 +41,7 @@ The [`Week Four`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
   2. Portfolio Project/User Interface
   3. Figma
   4. Portfolio Project/Setup
-  5. SEO
+  5. Portfolio Project/Git + Github
   6. Responsive Week 3 Summary
 
 ## Contact
