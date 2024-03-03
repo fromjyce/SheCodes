@@ -11,7 +11,7 @@ The [`Week One`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsi
   4. [Advanced Flexbox](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20One/Challenge%20Four)
   5. Responsive Week 1 Summary
 
-*Homework :* [Advanced HTML/CSS Homework](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20One/Homework)
+**Homework :** [Advanced HTML/CSS Homework](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20One/Homework)
 
 ## Week Two Overview
 The [`Week Two`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Two) file consists of the lessons and challenges completed during Week Two.
