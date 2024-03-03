@@ -66,7 +66,7 @@ The [`Week Five`](https://github.com/fromjyce/SheCodes/tree/main/SheCodesRespons
   6. [Portfolio Project/SEO](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five/Challenge%20Six)
   7. Responsive Week 5 Summary
 
-### [Final Project](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five/Final%20Project)
+## [Final Project](https://github.com/fromjyce/SheCodes/tree/main/SheCodesResponsive/Week%20Five/Final%20Project)
 
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
